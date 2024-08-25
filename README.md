@@ -28,6 +28,8 @@
 ## Contacts ⭐
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/blendminh)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](themysmine@gmail.com)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/BlenDMinh)
+[![Codeforces](https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/BlenDMinh)
 
 ### About Me ✌️
 
@@ -36,3 +38,5 @@
 - 📚 **Always learning and exploring new technologies**
 - 🔧 **Building projects with PyTorch, Flask, Arduino, ESP32, and Flutter**
 - 🌐 **Check out my projects**
+
+![Profile's view](https://komarev.com/ghpvc/?username=BlenDMinh&color=green&style=for-the-badge)
