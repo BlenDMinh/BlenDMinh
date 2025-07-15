@@ -6,8 +6,8 @@
 ---
 
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=BlenDMinh&show_icons=true&theme=tokyonight&card_width=320' height=200>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=BlenDMinh&layout=compact&theme=tokyonight&card_width=320' height=200>
+  <img src='https://github-readme-stats.vercel.app/api?username=BlenDMinh&show_icons=true&theme=tokyonight&card_width=320&cache_seconds=60' height=200>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=BlenDMinh&layout=compact&theme=tokyonight&card_width=320&cache_seconds=60' height=200>
 </div>
 
 ---
