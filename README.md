@@ -59,8 +59,8 @@ Every adventurer needs their party. Some stay, some leave, some respawn after pa
 ---
 
 [<img src="https://avatars.githubusercontent.com/u/87228468?v=4" width="35" title="bug1422">](https://github.com/bug1422)  
-🛡️ **bug1422** — *The Eternal Tank*  
-<sub>⚔️ Cannot be deleted. Even by root.</sub>  
+🛡️ **bug1422** — *null*  
+<sub>⚔️ just null</sub>  
 
 ---
 
