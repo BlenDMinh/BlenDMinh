@@ -1,42 +1,93 @@
-<div align='center'>
-  <h1><b>Hi👋, I'm Nguyen Truong Anh Minh</b></h1>
-  <p>A Vietnamese developer who codes for fun and passion</p>
+<div align="center">
+
+# 🎲 Character Sheet: BlenDMinh  
+
+*"Chaotic neutral developer who rolled a nat 1 on social skills  
+but a nat 20 on accidentally breaking production."*  
+
+═════════════════════════════════════
+
 </div>
 
 ---
 
-<div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=BlenDMinh&show_icons=true&theme=tokyonight&card_width=320&cache_seconds=60' height=200>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=BlenDMinh&layout=compact&theme=tokyonight&card_width=320&cache_seconds=60' height=200>
-</div>
+## 📜 Origin Story  
+
+Legend has it…  
+- Born at **commit #0001**  
+- Raised by Stack Overflow scrolls and mysterious caffeine potions ☕  
+- Banished from tutorial hell after defeating the Bug Hydra 🐛🐉  
+- Currently roaming the digital realms in search of… free WiFi  
 
 ---
 
-## Skills 💻
+## ⚔️ Character Stats  
 
-<div align="left">
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
-  <img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/>
+| Stat | Value | Description |
+|------|-------|-------------|
+| **Strength** | 12 | Can lift a laptop (barely) |
+| **Dexterity** | 18 | Types faster than my brain can think |
+| **Constitution** | 20 | Immune to sleep, vulnerable to meetings |
+| **Intelligence** | 16 | Knows the difference between `==` and `===` |
+| **Wisdom** | 6 | Once `rm -rf /` on the wrong folder |
+| **Charisma** | 3 | Git blame is not a conversation skill |
+
+---
+
+## 🧰 Inventory of Artifacts  
+
+- ✨ **DUTGRAD** — *Forged with my greatest ally, the crown jewel of my quests*  
+  - ⚙️ [**dutgrad-server**](https://github.com/BlenDMinh/dutgrad-server) — The beating heart, keeps the guild alive  
+  - 🌐 [**dutgrad-web**](https://github.com/BlenDMinh/dutgrad-web) — The shining gateway to the realm  
+  - 🕯️ *A Lost Component* — Vanished into the void, its name forgotten...  
+
+- 👶 [**TinyGuard**](https://github.com/BlenDMinh/TinyGuard) → Baby crying detector (for when silence is too quiet)  
+- 🐾 [**Necopia-game**](https://github.com/BlenDMinh/Necopia-game) → A cat that predicts weather & air pollution  
+- 💻 [**BlenDUI**](https://github.com/BlenDMinh/BlenDUI) → Console UI library for C++, forged with ANSI magic  
+
+
+---
+
+## 👯 Party Members (Ma Friends)  
+
+Every adventurer needs their party. Some stay, some leave, some respawn after patch notes.  
+
+[<img src="https://avatars.githubusercontent.com/u/115072717?v=4" width="35" title="thuha25">](https://github.com/thuha25)  
+🧙 **thuha25** — *The Sorcerer of Lost Times*  
+<sub>🪄 Once my greatest ally, now just a spell in memory.</sub>  
+
+---
+
+[<img src="https://avatars.githubusercontent.com/u/87228468?v=4" width="35" title="bug1422">](https://github.com/bug1422)  
+🛡️ **bug1422** — *The Eternal Tank*  
+<sub>⚔️ Cannot be deleted. Even by root.</sub>  
+
+---
+
+[<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="35" title="octocat">](https://github.com/octocat)  
+🎵 **octocat** — *The Bard of Markdown*  
+<sub>📜 Sings in pull requests, forgets lyrics in issues.</sub>  
+
+---
+
+## 🎭 Random Encounters  
+
+*The tavern is loud. A bard tells a joke, a sage drops a quote…*  
+
+![Random Joke Card](https://readme-jokes.vercel.app/api?theme=random)  
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)  
+
+---
+
+## 📡 Summon the Adventurer  
+
+📨 [Facebook](https://www.facebook.com/blendminh) • [Email](mailto:themysmine@gmail.com) • [Hackerrank](https://www.hackerrank.com/profile/BlenDMinh) • [Codeforces](https://codeforces.com/profile/BlenDMinh)  
+
+---
+
+<div align="center">
+
+*"If found wandering in production, please return to nearest coffee shop."* ☕  
+
 </div>
-
-## Contacts ⭐
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/blendminh)
-[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](themysmine@gmail.com)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-darkgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/BlenDMinh)
-[![Codeforces](https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/BlenDMinh)
-
-### About Me ✌️
-
-- 🌟 **Passionate about AI and Machine Learning**
-- 💻 **Experienced in various programming languages and frameworks**
-- 📚 **Always learning and exploring new technologies**
-- 🔧 **Building projects with PyTorch, Flask, Arduino, ESP32, and Flutter**
-- 🌐 **Check out my projects**
-
-![Profile's view](https://komarev.com/ghpvc/?username=BlenDMinh&color=green&style=for-the-badge)
