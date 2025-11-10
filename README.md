@@ -45,26 +45,6 @@ Legend has it…
 - 🐾 [**Necopia-game**](https://github.com/BlenDMinh/Necopia-game) → A cat that predicts weather & air pollution  
 - 💻 [**BlenDUI**](https://github.com/BlenDMinh/BlenDUI) → Console UI library for C++, forged with ANSI magic  
 
-
----
-
-## 👯 Party Members (Ma Friends)  
-
-Every adventurer needs their party. Some stay, some leave, some respawn after patch notes.  
-
-<div align="center">
-
-| Avatar | Name | Role | Flavor |
-|--------|------|------|--------|
-| [<img src="https://avatars.githubusercontent.com/u/115072717?v=4" width="40">](https://github.com/thuha25) | 🧙 **thuha25** | *The Sorcerer of Lost Times* | ✨ Once my greatest ally, now just a spell in memory. |
-| [<img src="https://avatars.githubusercontent.com/u/87228468?v=4" width="40">](https://github.com/bug1422) | 🛡️ **bug1422** | *null* | ⚔️ just null |
-| [<img src="https://avatars.githubusercontent.com/u/104202148?v=4" width="40">](https://github.com/LongTCH) | 🧙‍♂️ **LongTCH** | *High Wizard of Wit & Wisdom* | 📚 Conjurer of elegant spells in code |
-| [<img src="https://avatars.githubusercontent.com/u/93019716?v=4" width="40">](https://github.com/give-it-your-best-shot) | 😏 **give-it-your-best-shot** | *The Arrogant Challenger* | 🔥 Annoyingly arrogant, but crits sometimes |
-| [<img src="https://avatars.githubusercontent.com/u/108285863?v=4" width="40">](https://github.com/ch0uchou) | 😴 **ch0uchou** | *The Sleepy Wanderer* | 🛌 Lazy but somehow survives every quest |
-| [<img src="https://avatars.githubusercontent.com/u/104772136?v=4" width="40">](https://github.com/NamCrystal8) | 🎮 **NamCrystal8** | *The Gamer Knight* | 🕹️ Farming XP IRL right now |
-
-</div>
-
 ---
 
 ## 🎭 Random Encounters  
